@@ -87,5 +87,4 @@ function buildReport(array) {
 
 
 //
-
 console.log(JSON.stringify(report))
